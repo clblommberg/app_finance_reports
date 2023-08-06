@@ -61,10 +61,9 @@ Agradece y da créditos a cualquier persona o recurso que haya sido de ayuda par
 
 ## Licencia
 
-Indica la licencia bajo la cual se distribuye el proyecto. Puedes incluir un enlace a la licencia completa si es necesario.
+Indica la licencia bajo la cual se distribuye el proyecto. En este caso es libre de uso para todo el que desee aprender esta es mi contribución a los Tutoriales de YouTube, IA's y Stackoverflow .
 
 ---
 
 ¡Gracias por revisar este README! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
 
-Copyright © [Tu Nombre] [Año]
